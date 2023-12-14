@@ -7,7 +7,7 @@
 
 body {
   flex-flow: column;
-  font-family: "Rubik", "Montserrat", system-ui, serif;
+  font-family: "Rubik", system-ui, sans-serif;
   padding: 0rem 10vw;
 }
 

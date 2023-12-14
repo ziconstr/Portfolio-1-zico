@@ -8,7 +8,6 @@
 body {
   flex-flow: column;
   font-family: "Rubik", "Montserrat", system-ui, serif;
-  padding: 0rem 10vw;
 }
 
 html {

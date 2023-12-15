@@ -1,4 +1,4 @@
-# Your project title
+# Portfolio 1
 
 ![image](/images/portfolioscreenshot.png)
 
@@ -6,7 +6,7 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The project aims to create a comprehensive and visually appealing personal portfolio website to showcase my skills, work, and professional experience. The website will serve as an online representation of my professional identity, providing visitors with valuable insights into my capabilities and accomplishments. The primary technologies utilized for this project include HTML, CSS, and JavaScript, with an emphasis on creating a user-friendly and responsive design.
 
 You can add some bullet points if you'd like to:
 
@@ -18,8 +18,9 @@ You can add some bullet points if you'd like to:
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [HTML]
+- [CSS]
+- [Javascript]
 
 ## Getting Started
 

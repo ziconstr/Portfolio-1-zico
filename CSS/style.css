@@ -87,6 +87,9 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  font-family: "Rubik", system-ui, sans-serif;
+
+  
 }
 
 #socials-container {

@@ -37,7 +37,7 @@ a,
 /* SECTIONS */
 
 section {
-  padding-top: 8vh;
+  padding-top: 5vh;
   height: 50vh;
   margin: 0 10rem;
   box-sizing: border-box;
@@ -207,7 +207,6 @@ section {
 
 #experience {
   position: relative;
-  padding-top: 8vh;
 }
 
 .experience-sub-title {

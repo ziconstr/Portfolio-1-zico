@@ -8,7 +8,7 @@
 body {
   flex-flow: column;
   font-family: "Rubik", system-ui, sans-serif;
-  padding: 0rem 0vw;
+  padding: 0rem 25vw;
 }
 
 html {
@@ -172,10 +172,14 @@ section {
 }
 
 .about-pic {
-  border-radius: 1rem;
+  border-radius: 2rem;
 }
 
-
+.arrow {
+  position: absolute;
+  right: -5rem;
+  bottom: 2.5rem;
+}
 
 .details-container {
   padding: 1.5rem;
@@ -270,7 +274,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 150vh;
+  height: 70vh;
 }
 
 
@@ -304,7 +308,6 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
-
 
 
 /* FOOTER SECTION */
@@ -362,4 +365,3 @@ article .icon {
   letter-spacing: 1px;
   text-align: center;
 }
-

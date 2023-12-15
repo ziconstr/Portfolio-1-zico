@@ -10,9 +10,9 @@ The project aims to create a comprehensive and visually appealing personal portf
 
 You can add some bullet points if you'd like to:
 
-- List item 1
-- List item 2
-- List item 3
+- RESPONSIVE
+- SIMPLE
+- MOBILE FRIENDLY
 
 ## Built With
 
@@ -54,7 +54,48 @@ LIVE SERVER plugin in VSCODE
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+Feel free to join in on this project! Your input is crucial for making the project better. Before you begin, please take a moment to check out these guidelines.
+
+1. Fork the Repository:
+
+Click the "Fork" button at the top-right corner of the repository page. This creates a personal copy of the project in your GitHub account.
+Clone Your Fork:
+
+2. Copy the URL of your forked repository.
+Open your terminal or Git Bash and run git clone [copied URL] to download the project to your computer.
+
+3. Create a Branch:
+
+Run git checkout -b [your-branch-name] to create a new branch for your changes.
+
+4. Make Changes:
+
+Make the necessary modifications or additions to the project on your local machine.
+
+5. Commit Changes:
+
+Run git add . to stage your changes.
+Run git commit -m "Your descriptive message" to commit your changes.
+
+6. Push Changes:
+
+Run git push origin [your-branch-name] to push your changes to your GitHub repository.
+
+7. Create a Pull Request:
+
+Visit your forked repository on GitHub.
+Click the "New Pull Request" button.
+Choose the branch with your changes and provide a brief description of your contribution.
+Click "Create Pull Request."
+
+8. Discuss and Adjust:
+
+Engage in any discussions or adjustments requested by the maintainers.
+
+9. Merge Changes:
+
+Once approved, your changes will be merged into the main project.
+Thank you for contributing to [Your Repository Name]! If you have any questions or need assistance, feel free to reach out. Happy contributing!
 
 ## Contact
 

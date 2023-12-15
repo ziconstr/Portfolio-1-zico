@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 800px) {
   #experience,
   .experience-details-container {
     margin-top: 2rem;

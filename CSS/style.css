@@ -37,7 +37,7 @@ a,
 /* SECTIONS */
 
 section {
-  padding-top: 5vh;
+  padding-top: 8vh;
   height: 50vh;
   margin: 0 10rem;
   box-sizing: border-box;
@@ -181,11 +181,6 @@ section {
   border-radius: 2rem;
 }
 
-.arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 2.5rem;
-}
 
 .details-container {
   padding: 1.5rem;
@@ -212,6 +207,7 @@ section {
 
 #experience {
   position: relative;
+  padding-top: 12vh;
 }
 
 .experience-sub-title {

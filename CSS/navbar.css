@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     font-size: 1.25rem;
-    padding: 0.70rem 20vw;
+    padding: 0.70rem 10vw;
     box-shadow: 0 0 30px rgba(255, 255, 255, 0.5);
 
     
@@ -65,7 +65,7 @@ header {
 .toggle-button {
     position: absolute;
     top: .75rem;
-    right: 1rem;
+    right: 3rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;

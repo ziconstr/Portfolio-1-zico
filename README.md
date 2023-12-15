@@ -21,17 +21,18 @@ You can list a the tech stack that you've used over here
 - [HTML]
 - [CSS]
 - [Javascript]
+- [Photoshop]
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+Get started with this project.
 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:ziconstr/Portfolio-1-zico.git
 ```
 
 2. Install the dependencies:
@@ -42,12 +43,13 @@ npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
 To run the app, run the following commands:
 
 ```bash
 npm run start
+```
+```bash
+LIVE SERVER plugin in VSCODE
 ```
 
 ## Contributing

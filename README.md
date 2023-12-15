@@ -95,20 +95,20 @@ Engage in any discussions or adjustments requested by the maintainers.
 9. Merge Changes:
 
 Once approved, your changes will be merged into the main project.
-Thank you for contributing to [Your Repository Name]! If you have any questions or need assistance, feel free to reach out. Happy contributing!
+Thank you for contributing to [PORTFOLIO 1]! If you have any questions or need assistance, feel free to reach out. Happy contributing!
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+"Let's connect! Find me on LinkedIn for professional updates and Twitter for casual conversations. Feel free to reach out and connect!"
 
-[My Twitter page](www.twitter.com)
+[My Twitter page](www.twitter.com/ziconstr)
 
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/zico-sebastian-825017135/)
 
-## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
-## Acknowledgments
+## Live project
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+- [Netlify] https://wondrous-semolina-ca284a.netlify.app/
+
+

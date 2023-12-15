@@ -48,9 +48,9 @@ To run the app, run the following commands:
 ```bash
 npm run start
 ```
-```bash
+
 LIVE SERVER plugin in VSCODE
-```
+
 
 ## Contributing
 

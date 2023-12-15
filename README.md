@@ -112,3 +112,6 @@ Thank you for contributing to [PORTFOLIO 1]! If you have any questions or need a
 - [Netlify] https://wondrous-semolina-ca284a.netlify.app/
 
 
+## Acknowledgments
+
+This is my first Portfolio, and I'm pleased with it. However, I know there's room for improvement. With more practice over time, I hope to create a better and more impressive Portfolio to showcase myself.

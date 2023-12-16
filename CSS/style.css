@@ -8,7 +8,7 @@
 body {
   flex-flow: column;
   font-family: "Rubik", system-ui, sans-serif;
-  padding: 0rem 15vw;
+  /* padding: 0rem 15vw; */
   
 }
 
@@ -38,7 +38,7 @@ a,
 
 section {
   padding-top: 5vh;
-  height: 50vh;
+  height: 95vh;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
